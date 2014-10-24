@@ -4,4 +4,4 @@ DATAIN
 Test and training 
 #DATA
 ##DATA
-*data
+**italic데이터 연습**데이터 연습
